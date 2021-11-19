@@ -26,4 +26,4 @@ def view_expense(day,month,year):
     pyplot.axis('equal')
     pyplot.show()
 
-view_expense(16,11,21)
+#view_expense(16,11,21)
