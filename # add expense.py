@@ -2,7 +2,7 @@
 from tkinter import *
 import date
 import mysql.connector
-db_connect=mysql.connector.connect(host="localhost",user="root",password="maan",database="expense")
+db_connect=mysql.connector.connect(host="localhost",user="root",password="toor",database="expense")
 db_cursor=db_connect.cursor()
 
 
